@@ -1,4 +1,4 @@
-I Graduated from The Full-Time Training in Indonesia (FTTI) :church: in Dec 2022, which it is a two-year post-baccalaureate program that equips me for a life of service in my respective churche and community, as long as I was student in FTTI, I got a package characther training of how to be true testimony of God. 
+I Graduated from The Full-Time Training in Indonesia (FTTI) :church: in Dec 2022, which it is a two-year post-baccalaureate program that equips me for a life of service in my respective church and community, as long as I was student in FTTI, I got a package characther training of how to be true testimony of God. 
 
 in previous, I was student of Electronic and Communication Engineering Education in Surabaya State University :classical_building: from 2016-2020. as long as I was student in Surabaya State University, I made several Agriculture Projects using Arduino and Raspberry Pi and also made me possible to teaching and design learning path for student.
 
