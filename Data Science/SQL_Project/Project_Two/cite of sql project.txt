@@ -1,0 +1,7 @@
+1. number-of-internet-users.csv ---- Hannah Ritchie, Edouard Mathieu, Max Roser and Esteban Ortiz-Ospina (2023) - "Internet". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/internet' [Online Resource]
+2. population-and-demography.csv ---- Max Roser, Hannah Ritchie, Esteban Ortiz-Ospina and Lucas Rodés-Guirao (2013) - "World Population Growth". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/world-population-growth' [Online Resource]
+3. share-with-anxiety-disorders.csv ---- Saloni Dattani, Hannah Ritchie and Max Roser (2021) - "Mental Health". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/mental-health' [Online Resource]
+4. literacy-rate-adults.csv ---- Max Roser and Esteban Ortiz-Ospina (2016) - "Global Education". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/global-education' [Online Resource]
+
+
+
