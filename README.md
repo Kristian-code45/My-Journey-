@@ -5,7 +5,7 @@ I was born in 1997.
 
 ![Idris jpg](https://github.com/Kristian-code45/My-Journey-/assets/63892837/449c578c-e7c0-4e37-9adb-a750dfccd465)
 
-now, I'm take part time as a **Teacher of Math and Science** in Study Center, a non-profit organization, invented by church's to guide youth people in their academy and character. beside that, I am Studying :open_book: about Full Stack Web Development :computer: and Data Science :microscope: in Udemy. 
+now, I'm take part time as a **Teacher of Math and Science** in Study Center, a non-profit organization, established by church's to guide youth people in their academy and character. beside that, I am Studying :open_book: about Full Stack Web Development :computer: and Data Science :microscope: in Udemy. 
 
 I Graduated from **The Full-Time Training in Indonesia (FTTI)** :church: in Dec 2022, which it is a two-year post-baccalaureate program that equips me for a life of service in my respective church and community, as long as I was student in FTTI, I got a package characther training of how to be true testimony of God. 
 
