@@ -3,7 +3,7 @@ Hello, Myname is **Idris Kristian Bukit**.
 
 I was born in 1997.
 
-![Idris jpg](https://github.com/Kristian-code45/My-Journey-/assets/63892837/921303fa-0598-425b-b9ff-3da1ef074de6)
+![Idris jpg](https://github.com/Kristian-code45/My-Journey-/assets/63892837/449c578c-e7c0-4e37-9adb-a750dfccd465)
 
 now, I'm take part time as a **Teacher of Math and Science** in Study Center, a non-profit organization, invented by church's to guide youth people in their academy and character. beside that, I am Studying :open_book: about Full Stack Web Development :computer: and Data Science :microscope: in Udemy. 
 
