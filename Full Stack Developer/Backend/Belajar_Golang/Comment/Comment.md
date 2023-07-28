@@ -1,0 +1,3 @@
+/*
+Komentar yang baik adalah kode itu sendiri
+*/
