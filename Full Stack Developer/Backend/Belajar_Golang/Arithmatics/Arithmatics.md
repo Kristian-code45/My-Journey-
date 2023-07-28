@@ -17,6 +17,6 @@ a=a%10 >> a%=10
 Unary Operator
 ++ >> a=a+1
 -- >> a=a-1
-- >> Negative
-+ >> Positive
-! >> Boolean Kebalikan
+(-) >> Negative
+(+) >> Positive
+(!) >> Boolean Kebalikan
